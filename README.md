@@ -1,5 +1,7 @@
 # The-Titanic-Survival-prediction-challenge
-This is my attempt at using logistic regression to create an econometric model, which forecasts and ranks survivability of passengers on the Titanic.
+
+
+This is my attempt at using logistic regression to create an econometric model, which forecasts and ranks survivability of passengers on the Titanic. This is part of my entry to the Titanic Survival Competition on Kaggle.
 
 The included script is the distilled, bare-bones workign version for creating my model. I've also included my pdf report with extensive EDA, and step-by-step explanations.
 
