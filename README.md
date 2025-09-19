@@ -2,7 +2,7 @@
 
 ![Kaggle](https://www.kaggle.com/competitions/titanic) ![R]
 
-## 📖 Overview
+## Overview
 
 This project presents an end-to-end data science pipeline for predicting the survival of passengers aboard the RMS Titanic. Developed for the famous [Kaggle Titanic competition](https://www.kaggle.com/c/titanic), it demonstrates a robust methodology for binary classification problems, encompassing exploratory data analysis (EDA), feature engineering, handling missing data, predictive modeling, and optimal threshold tuning.
 
@@ -71,11 +71,7 @@ A central challenge was determining the optimal probability threshold for classi
 *   **Additional Feature Engineering:** Incorporate features like **Deck** from the `Cabin` variable or **Ticket Group** analysis.
 *   **More Sophisticated Thresholding:** Explore methods like cost-sensitive learning or maximizing metrics directly relevant to the problem domain.
 
-## 📚 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙋‍♂️ Author
+##  Author
 
 **Christoph Beck**
 *   Kaggle: [https://www.kaggle.com/christophbeck]
