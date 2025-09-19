@@ -1,7 +1,5 @@
 # Titanic Survival Prediction Challenge
 
-![Kaggle](https://www.kaggle.com/competitions/titanic) ![R]
-
 ## Overview
 
 This project presents an end-to-end data science pipeline for predicting the survival of passengers aboard the RMS Titanic. Developed for the famous [Kaggle Titanic competition](https://www.kaggle.com/c/titanic), it demonstrates a robust methodology for binary classification problems, encompassing exploratory data analysis (EDA), feature engineering, handling missing data, predictive modeling, and optimal threshold tuning.
